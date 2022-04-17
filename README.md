@@ -6,6 +6,7 @@ Dataset (train.csv and test.csv): retrieved from Kaggle
 
 Reference: https://www.kaggle.com/competitions/titanic
 
+### Workflow
 1. Classifying:   
 Understand the implications of different features
 2. Correlating:   
